@@ -1,1 +1,3 @@
 # 4V-leert-Github
+
+een kleine site waar we kunnen bijhouden wie wat waar doet ...
